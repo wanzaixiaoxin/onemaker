@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "my_game": {
+      "name": "我的游戏",
+      "slug": "my_game",
+      "stage": "prototype",
+      "created": "2026-03-30T17:38:54.286300",
+      "updated": "2026-03-30T17:38:54.516449",
+      "engine": "",
+      "genre": "",
+      "platform": ""
+    }
+  }
+}
