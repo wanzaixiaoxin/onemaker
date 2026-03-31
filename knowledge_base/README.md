@@ -12,7 +12,9 @@ knowledge_base/
 ├── 03_art.md              ← 美术资源
 ├── 04_audio.md            ← 音频
 ├── 05_pm_and_publish.md   ← 项目管理与发行运营
-└── 06_ai_toolchain.md     ← AI工具链串联总览
+├── 06_ai_toolchain.md     ← AI工具链串联总览
+└── 07_publishing_guide.md  ← 发行运营通用手册
+```
 ```
 
 ## 游戏制作全流程要素总览
@@ -75,3 +77,4 @@ knowledge_base/
 - [04 音频](04_audio.md) - 音乐与音效的AI辅助制作
 - [05 项目管理与发行运营](05_pm_and_publish.md) - 从规划到上架的全流程
 - [06 AI工具链串联总览](06_ai_toolchain.md) - AI工具如何串联全流程
+- [07 发行运营通用手册](07_publishing_guide.md) - 渠道×商业模式×材料的完整发行准备清单
